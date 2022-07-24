@@ -9,3 +9,6 @@
   background-color: black;
   margin-top: 15%;
 }
+.text-shadow{
+  text-shadow: 4px 2px 10px white;
+}
