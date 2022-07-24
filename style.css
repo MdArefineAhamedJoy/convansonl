@@ -1,0 +1,11 @@
+.to-margin{
+  margin-top: 150px;
+}
+.bottom-margin{
+  margin-bottom: 150px;
+}
+.footer{
+  height: 70vh;
+  background-color: black;
+  margin-top: 15%;
+}
